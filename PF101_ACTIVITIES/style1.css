@@ -1,0 +1,69 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('images.jpg');
+    background-size:cover;
+    
+}
+ body .learning{
+    background-image: url('images.jpg');
+}
+
+nav a{
+
+    gap: 10%;
+    text-decoration: none;
+    
+}
+a:hover{
+    color:darkviolet;
+}
+li{
+    
+    gap: 20px;
+    text-decoration: none;
+    list-style: none;
+   
+}
+nav{
+    display: flex;
+    gap:10%;
+    text-decoration: none;
+    margin-top: 2%;
+    margin-left: 35%;
+    
+}
+.act{
+    margin-right: 10%;
+    margin-top: 15%;
+    gap:20px;
+    line-height: 20px;
+}
+.first{
+    margin-left: 40%;
+    margin-top: 10%;
+    font-size: 25px;
+}
+.title{
+    text-shadow: 20px solid violet;
+    margin-left: 15%;
+    margin-top: 20px;
+    font-size: 60px;
+}
+.para{
+    line-height: 20px;
+    margin-left:15% ;
+    font-size: 20px;
+}
+.para4{
+    background-image: url('images2.jpg');
+    box-shadow: 5px 10px 10px purple;
+    border: 2px solid purple;
+    border-radius: 20px;
+    font-size: 25px;
+}
+.h1{
+
+    text-align: center;
+    font-size: 60px;
+}

@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background: linear-gradient(to top, #33ccff 10%, #ff99cc 100%);
+
+}
+
+.sec1con{
+    padding-top: 130px;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+.secimg1{
+    width: fit-content;
+}
+
+div{
+    padding-left: 100px;
+}
+
+img{
+    width: 500px;
+    margin-top: 75px;
+   
+    
+}
+.pic{
+    text-align: justify;
+    margin-left: 50px;
+
+}
+
+p, h1{
+    width: 400px;
+    margin-bottom: 10px;
+    text-align: justify;
+    justify-content: center;
+
+}
+h1{
+    justify-content: center;
+    text-align: center;
+}
+
+.section1{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 225px;
+}
+
+.section2{
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    margin-left: 100px;
+}
+
+.section2 img{
+    margin-top: 0;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 0;
+}
+.btn{
+    text-align: center;
+    justify-content: center;
+    margin-left: 70%;
+}
+
+
+button{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.7);
+    transition: box-shadow 0.5s;
+}
+
+button:hover{
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.5);
+}
+
+button:active{
+    transition: opacity 0.15s;
+    opacity: 0.8;
+}
+
+.hop{
+    width: 500px;
+    height: 500px;
+
+}
+.cardsec2{
+    background-color:#ff99cc;
+    margin-left: 50px;
+    margin-right: 5%;
+    padding-right: 300px;
+    padding-left: 0;
+    margin-bottom: 50px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    box-shadow: 5px 10px 10px rgba(0,0,0,0.7);
+   
+}
+
+.hud{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 280px;
+
+}
+
+.but{
+    margin-left: 100px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 100px;
+
+}
+
+.section3 h1{
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 270px;
+}
